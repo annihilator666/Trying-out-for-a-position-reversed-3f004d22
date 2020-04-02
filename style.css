@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+div.blauw {
+    z-index: -1;
+    left: 100px;
+    top: 100px;
+    position: absolute;
+}
